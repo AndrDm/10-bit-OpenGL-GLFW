@@ -1,6 +1,8 @@
 # 10-bit-OpenGL-GLFW
 How to use 10-bit Display Mode using OpenGL/GLFW.
 
+Using 10-bit you will see much less [banding](https://en.wikipedia.org/wiki/Colour_banding), especially on the medical monitor, because this will allow to have 1024 shades of gray instead of 256.
+
 Was tested on the following configuration:
 
 Graphic Adapter — NVIDIA Quadro RTX 4000
@@ -48,7 +50,7 @@ The settings will allow to change Min/Max (Center/Width) Levels and measure DDLs
 
 #### Simple-10 bit
 
-Just triangle from GLFW "Hello World":
+Just triangle from GLFW "Hello World", slightly modified:
 
 ![](assets/02_simple_app.png)
 
@@ -63,3 +65,4 @@ Rotating Cube with gradients:
 Rotating cube with lighting
 
 ![](assets/04_cube_light_app.png)
+
