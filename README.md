@@ -5,8 +5,9 @@ Using 10-bit you will see much less [banding](https://en.wikipedia.org/wiki/Colo
 
 Was tested on the following configuration:
 
-Graphic Adapter — NVIDIA Quadro RTX 4000
-Monitor— EIZO RadiForce RX340
+**Graphic Adapter** — NVIDIA Quadro RTX 4000
+
+**Monitor** — EIZO RadiForce RX340 (DELL U3011 also was tested)
 
 The Monitor shall be connected to Display Port.
 
@@ -32,7 +33,7 @@ And use GL_RGB10 for textures
 glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB10, ImageWidth, ImageHeight, 0, GL_RGB, GL_UNSIGNED_SHORT, pixelsU16);
 ```
 
-There are four small projects, each one will open two windows - one in 8 bit mode, and another one in 10 bit, so you can compare both visually to check that banding effect disappeared on 10 bit.
+There are four small projects, each one will open two windows — one in 8 bit mode, and another one in 10 bit, so you can compare both visually to check that the banding effect is disappeared on 10 bit.
 
 #### Demo-10 bit
 
