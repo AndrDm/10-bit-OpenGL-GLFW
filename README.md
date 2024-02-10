@@ -3,8 +3,9 @@ How to use 10-bit Display Mode using OpenGL/GLFW.
 
 Was tested on the following configuration:
 
-Graphic Adapter — NVIDIA Quadro RTX 4000
-Monitor— EIZO RadiForce RX340
+**Graphic Adapter** — NVIDIA Quadro RTX 4000
+
+**Monitor** — EIZO RadiForce RX340 (DELL U3011 also was tested)
 
 The Monitor shall be connected to Display Port.
 
