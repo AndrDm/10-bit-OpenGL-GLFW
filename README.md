@@ -69,4 +69,4 @@ Rotating cube with lighting
 
 Microsoft Visual Studio 2022 v.17.8.6 was used. x64 only.
 
-Another tool to test 10-bit Monitor from Sharp NEC — [10 bit Color Depth Demo Application](https://www.sharpnecdisplays.us/monitor-software) - (Download Link)[https://assets.sharpnecdisplays.us/documents/software/nec_10_bit_video_windows_demo.zip]
+Another tool to test 10-bit Monitor from Sharp NEC — [10 bit Color Depth Demo Application](https://www.sharpnecdisplays.us/monitor-software) - [Download Link](https://assets.sharpnecdisplays.us/documents/software/nec_10_bit_video_windows_demo.zip)
