@@ -7,7 +7,7 @@ Was tested on the following configuration:
 
 **Graphic Adapter** — NVIDIA Quadro RTX 4000
 
-**Monitor** — EIZO RadiForce RX340 (DELL U3011 also was tested)
+**Monitor** — EIZO RadiForce RX340 Medical Monitor (DELL U3011 also was tested)
 
 The Monitor shall be connected to Display Port.
 
@@ -67,3 +67,4 @@ Rotating cube with lighting
 
 ![](assets/04_cube_light_app.png)
 
+Microsoft Visual Studio 2022 v.17.8.6 was used. x64 only.
