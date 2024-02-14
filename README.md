@@ -33,6 +33,8 @@ And use GL_RGB10 for textures
 glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB10, ImageWidth, ImageHeight, 0, GL_RGB, GL_UNSIGNED_SHORT, pixelsU16);
 ```
 
+[NVidia 10 and 12-bit Grayscale Technology Technical Brief v05 Oct 2013](https://www.nvidia.com/content/quadro_fx_product_literature/tb-04631-001_v05.pdf)
+
 There are four small projects, each one will open two windows — one in 8 bit mode, and another one in 10 bit, so you can compare both visually to check that the banding effect is disappeared on 10 bit.
 
 #### Demo-10 bit
