@@ -3,13 +3,13 @@ How to use 10-bit Display Mode using OpenGL/GLFW.
 
 Using 10-bit you will see much less [banding](https://en.wikipedia.org/wiki/Colour_banding), especially on the medical monitor, because this will allow to have 1024 shades of gray instead of 256.
 
-Was tested on the following configuration:
+Was tested on the following configuration (obviously all three components should support 10 bit - Monitor, Graphic Adapter and the Software):
 
 **Graphic Adapter** — NVIDIA Quadro RTX 4000
 
-**Monitor** — EIZO RadiForce RX340 Medical Monitor (DELL U3011 also was tested)
+**Monitor** — EIZO RadiForce RX340 Medical Monitor (DELL U3011 also was tested, whole Ultrasharp should support 10 bit)
 
-The Monitor shall be connected to Display Port.
+The Monitor shall be connected to Display Port (DVI Dual Link might work, but was not tested).
 
 The following settings needs to be changed:
 
